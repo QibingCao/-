@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.1">
   <diagram name="第 1 页" id="ngwYaE-qinQZjfTA4Ec-">
-    <mxGraphModel>
+    <mxGraphModel dx="1938" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7oA-Yocy_9mN2iAs4XyU-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="108" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7oA-Yocy_9mN2iAs4XyU-2" value="接口层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="118" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7oA-Yocy_9mN2iAs4XyU-3" value="框架适配模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="116" width="80" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="7oA-Yocy_9mN2iAs4XyU-4" value="输入参数解析模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="116" width="105" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="7oA-Yocy_9mN2iAs4XyU-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7oA-Yocy_9mN2iAs4XyU-6" value="调度策略模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="229" width="80" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="7oA-Yocy_9mN2iAs4XyU-7" value="Kernel 注册模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="229" width="100" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="7oA-Yocy_9mN2iAs4XyU-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7oA-Yocy_9mN2iAs4XyU-9" value="Kernel 执行模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="289" width="90" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="7oA-Yocy_9mN2iAs4XyU-10" value="中间结果 Dump 模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="289" width="120" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="7oA-Yocy_9mN2iAs4XyU-11" value="硬件平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="340" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7oA-Yocy_9mN2iAs4XyU-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="271" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7oA-Yocy_9mN2iAs4XyU-14" value="正确性测试服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="280" width="120" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="7oA-Yocy_9mN2iAs4XyU-15" value="性能测试服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="280" width="100" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
